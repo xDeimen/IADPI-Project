@@ -33,7 +33,7 @@ Each model is trained using PyTorch, with loss and accuracy metrics recorded. Th
 ## Setup and Usage
 1. Install dependencies:
    ```sh
-   pip install torch torchvision einops numpy matplotlib seaborn
+   pip install -r requirements.txt
    ```
 2. Run  scripts inside each model directory
 3. Evaluate model performance using provided evaluation scripts.
